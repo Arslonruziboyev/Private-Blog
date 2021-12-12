@@ -332,6 +332,14 @@ nav {
   font-weight: 400;
   letter-spacing: .1rem;
 }
+.abut-me p img{
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  position: 50% 50%;
+  border-radius: 50%;
+
+}
 .lang-me h3{
   color: var(--clr-primary-2);
   letter-spacing: .2rem;
